@@ -1,1 +1,7 @@
 
+vaimoto/
+├── app/
+├── public/
+├── src/
+├── package.json
+├── next.config.js
